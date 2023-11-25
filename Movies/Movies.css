@@ -302,7 +302,7 @@ html::-webkit-scrollbar-thumb {
     border-radius: 0.5rem;    
 }
 
-@media (max-width: 5000px) and (min-width: 801px) {
+@media (max-width: 2000px) and (min-width: 801px) {
     .navbar li a {
         margin-left: 10px;
         margin-right: 10px;
